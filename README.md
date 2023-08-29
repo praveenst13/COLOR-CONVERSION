@@ -7,7 +7,7 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
 <br>
-mport cv2 library and upload the image or capture an image.
+import cv2 library and upload the image or capture an image.
 
 ### Step2:
 <br>
